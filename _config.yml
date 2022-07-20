@@ -1,10 +1,10 @@
-site: Gesko
-title: Gesko
+site: suyeon
+title: algorithm study
 greetings: Hi 👋
 description: >-
-  just a minimalist, personal blog
-lang: en-US
-timezone:  Asia/Seoul
+  codility, programmers, 백준 알고리즘 문제를 풀고 올립니다
+lang: ko
+timezone: Asia/Seoul
 repo: https://github.com/DavideBrie/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
@@ -21,7 +21,7 @@ author:
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://suyeon12.github.io" # Domain Name of host. [username].github.io for github pages
+url: "" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
